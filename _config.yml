@@ -1,12 +1,11 @@
 # Site settings
-title: Taoooo Blog
-SEOTitle: Taoooo | My Blog
+title: Cgl Blog
+SEOTitle: Cgl | My Blog
 header-img: img/post-bg-desk.jpg
-email: taoooo1009@gmail.com
+email: Cgl257@163.com
 description: "Hi^_^!"
-keyword: "NLPER"
-url: "http://taoooo9.github.io"          # your host, for absolute URL
-github_repo: "https://github.com/taoooo9/taoooo9.github.io.git" # you code repository
+keyword: "Teacher"
+url: "http://cgl257.github.io"          # your host, for absolute URL
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -17,9 +16,6 @@ sidebar-about-description: "Goals determine what you going to be!"
 
 # SNS settings
 RSS: false
-zhihu_username:     Taoooo
-github_username:    taoooo9
-csdn_username:    Taoooo_
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
